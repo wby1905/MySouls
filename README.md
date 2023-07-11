@@ -16,3 +16,7 @@ Only built a small level(Test) to showcase what I've created and the actual game
 + Two kinds of Weapons (one-handed & two-handed)
 + Animations, motion warping, Foot IK
 + Enemy AI (not using Blackboard and Behavior tree, but created a status machine with C++ code)
+
+
+https://github.com/wby1905/MySouls/assets/44635717/d5c083d3-4a1e-4c22-b18c-fa73104c629f
+
